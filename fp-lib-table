@@ -1,4 +1,6 @@
 (fp_lib_table
   (lib (name "MX_Hotswap")(type "KiCad")(uri "${KIPRJMOD}/MX_V2/MX_Hotswap.pretty")(options "")(descr ""))
   (lib (name "promicro")(type "KiCad")(uri "${KIPRJMOD}/ProMicroKiCad/promicro.pretty")(options "")(descr ""))
+  (lib (name "marbastlib-mx")(type "KiCad")(uri "${KIPRJMOD}/marbastlib/marbastlib-mx.pretty")(options "")(descr ""))
+  (lib (name "marbastlib-various")(type "KiCad")(uri "${KIPRJMOD}/marbastlib/marbastlib-various.pretty")(options "")(descr ""))
 )
